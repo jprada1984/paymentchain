@@ -15,6 +15,7 @@
         <module>eurekaserver</module>
         <module>adminserver</module>
         <module>configserver</module>
+        <module>apigateway</module>
     </modules>
     <properties>
         <spring-cloud-dependencies.version>2021.0.3</spring-cloud-dependencies.version>
